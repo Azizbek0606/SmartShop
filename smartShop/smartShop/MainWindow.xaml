@@ -1,0 +1,138 @@
+﻿<Window x:Class="smartShop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:smartShop"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        ResizeMode="CanMinimize"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized">
+    <Window.Resources>
+        <Style x:Key="RoundedButtonStyle" TargetType="Button">
+            <Setter Property="Background" Value="#D2C7F5"/>
+            <Setter Property="BorderBrush" Value="#10000000"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border x:Name="border" 
+                            Background="{TemplateBinding Background}"
+                            BorderBrush="{TemplateBinding BorderBrush}"
+                            BorderThickness="{TemplateBinding BorderThickness}"
+                            CornerRadius="25">
+                            <ContentPresenter HorizontalAlignment="Center"
+                                      VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <Style.Triggers>
+
+                <Trigger Property="IsFocused" Value="True">
+                    <Setter Property="FocusVisualStyle" Value="{x:Null}"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <DropShadowEffect x:Key="CommonShadow" 
+            Color="#09000000" 
+            BlurRadius="10" 
+            ShadowDepth="10" 
+            Opacity="0.2"/>
+    </Window.Resources>
+    <Grid Width="auto" Height="auto">
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#FFBCBCFC" Offset="0"/>
+                <GradientStop Color="#FFF2D4E9" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".25*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Border  CornerRadius="0 100 100 0" Width="Auto" Height="Auto" Effect="{StaticResource CommonShadow}">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#FFBCBCFC" Offset="0"/>
+                    <GradientStop Color="#FFF2D4E9" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height=".35*"/>
+                    <RowDefinition Height=".10*"/>
+                    <RowDefinition Height=".10*"/>
+                    <RowDefinition Height=".10*"/>
+                    <RowDefinition Height=".35*"/>
+                </Grid.RowDefinitions>
+                <!-- logo border -->
+                <Border CornerRadius="0 100 0 0">
+                    <Border CornerRadius="50" Width="120" Height="120" Effect="{StaticResource CommonShadow}">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                                <GradientStop Color="#FFBCBCFC" Offset="0"/>
+                                <GradientStop Color="#FFF2D4E9" Offset="1"/>
+                            </LinearGradientBrush>
+                        </Border.Background>
+                        <Border Margin="10" CornerRadius="40" ClipToBounds="True">
+                            <Border.Background>
+                                <VisualBrush Stretch="UniformToFill">
+
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+=======
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+                                    <VisualBrush.Visual>
+                                        <Image Source="/assets/logo.png"></Image>
+                                    </VisualBrush.Visual>
+                                </VisualBrush>
+                            </Border.Background>
+                        </Border>
+                    </Border>
+                </Border>
+                <!--Hisobot border-->
+                <Border  Grid.Row="1">
+                    <Button Content="Dinamik tugma" Style="{DynamicResource RoundedButtonStyle}" Margin="10" BorderThickness="0" Effect="{StaticResource CommonShadow}"/>
+                </Border>
+                <!--Tugagan mahsulot border-->
+                <Border Grid.Row="2">
+                    <Border Margin="15" CornerRadius="30" BorderThickness="1" BorderBrush="#15000000" >
+
+                    </Border>
+                </Border>
+                <!--Kam qolgan mahsulot border-->
+                <Border Grid.Row="3">
+                    <Border Margin="15" CornerRadius="30" BorderThickness="1" BorderBrush="#15000000" >
+
+                    </Border>
+                </Border>
+                <Border BorderThickness="1" CornerRadius="0 0 100 0" Grid.Row="4">
+
+                </Border>
+            </Grid>
+
+        </Border>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height=".35*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Border Background="#9A9AFF" Margin="30 10" CornerRadius="50">
+
+                <TextBlock FontSize="30" Margin="30 20" Foreground="#ffffff">
+                    Maxsulot qo'shish
+                </TextBlock>
+            </Border>
+            <Border Background="DarkOrange" Grid.Row="1" Margin="30 10">
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

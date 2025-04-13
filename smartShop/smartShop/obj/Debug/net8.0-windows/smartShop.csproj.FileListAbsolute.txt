@@ -1,0 +1,52 @@
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.exe
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.deps.json
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.runtimeconfig.json
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.dll
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.pdb
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\MainWindow.g.cs
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\App.g.cs
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop_MarkupCompile.cache
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop_MarkupCompile.lref
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\MainWindow.baml
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.g.resources
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.GeneratedMSBuildEditorConfig.editorconfig
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.AssemblyInfoInputs.cache
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.AssemblyInfo.cs
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.csproj.CoreCompileInputs.cache
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.sourcelink.json
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.dll
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\refint\smartShop.dll
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.pdb
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.genruntimeconfig.cache
+E:\praktikum gitHub\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\ref\smartShop.dll
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+C:\Github_project\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.exe
+C:\Github_project\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.deps.json
+C:\Github_project\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.runtimeconfig.json
+C:\Github_project\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.dll
+C:\Github_project\SmartShop\smartShop\smartShop\bin\Debug\net8.0-windows\smartShop.pdb
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\App.g.cs
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop_MarkupCompile.cache
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop_MarkupCompile.lref
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.g.resources
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.AssemblyInfoInputs.cache
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.AssemblyInfo.cs
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.csproj.CoreCompileInputs.cache
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.sourcelink.json
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.dll
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\refint\smartShop.dll
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.pdb
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\smartShop.genruntimeconfig.cache
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\ref\smartShop.dll
+C:\Github_project\SmartShop\smartShop\smartShop\obj\Debug\net8.0-windows\App.baml
+<<<<<<< HEAD
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+=======
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44

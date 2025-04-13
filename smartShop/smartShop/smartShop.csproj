@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+    <Compile Remove="Новая папка1\**" />
+    <EmbeddedResource Remove="Новая папка1\**" />
+    <None Remove="Новая папка1\**" />
+    <Page Remove="Новая папка1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+<<<<<<< HEAD
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+=======
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+    <None Remove="assets\logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\logo.png">
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+=======
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+=======
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+>>>>>>> 95dc3291861294bc9e35696f27a216ca1446ea44
+    </Resource>
+  </ItemGroup>
+
+</Project>
